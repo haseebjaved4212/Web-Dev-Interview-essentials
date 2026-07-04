@@ -1,4 +1,4 @@
-# 🐦 NestJS Interview Essentials
+#  NestJS Interview Essentials
 
 > A complete, beginner-friendly reference guide covering every NestJS concept you need to ace backend and full-stack developer interviews. Written in simple, easy English with clear code examples and real-world patterns.
 
